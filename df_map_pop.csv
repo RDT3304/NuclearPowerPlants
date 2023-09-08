@@ -1,0 +1,760 @@
+Name,Country,Latitude,Longitude,Status,Capacity,Continent,Population
+Ågesta,Sweden,59.206,18.0829,Shutdown,9.0,Europe,10400000
+Barseback-1,Sweden,55.745,12.926,Shutdown,570.0,Europe,10400000
+Barseback-2,Sweden,55.745,12.926,Shutdown,570.0,Europe,10400000
+Forsmark-1,Sweden,60.405,18.168,Operational,900.0,Europe,10400000
+Forsmark-2,Sweden,60.405,18.168,Operational,900.0,Europe,10400000
+Forsmark-3,Sweden,60.405,18.168,Operational,1050.0,Europe,10400000
+Oskarshamn-1,Sweden,57.415,16.666,Shutdown,440.0,Europe,10400000
+Oskarshamn-2,Sweden,57.415,16.666,Shutdown,580.0,Europe,10400000
+Oskarshamn-3,Sweden,57.415,16.666,Operational,1050.0,Europe,10400000
+Ringhals-1,Sweden,57.259,12.111,Shutdown,881.0,Europe,10400000
+Ringhals-2,Sweden,57.259,12.111,Shutdown,820.0,Europe,10400000
+Ringhals-3,Sweden,57.259,12.111,Operational,915.0,Europe,10400000
+Ringhals-4,Sweden,57.259,12.111,Operational,1130.0,Europe,10400000
+Akademik Lomonosov-1,Russia,69.709579,170.30625,Operational,30.0,Asia,146200000
+Akademik Lomonosov-2,Russia,69.709579,170.30625,Operational,30.0,Asia,146200000
+APS-1 Obninsk,Russia,55.084,36.57,Shutdown,5.0,Asia,146200000
+Balakovo-1,Russia,52.092,47.952,Operational,950.0,Asia,146200000
+Balakovo-2,Russia,52.092,47.952,Operational,950.0,Asia,146200000
+Balakovo-3,Russia,52.092,47.952,Operational,950.0,Asia,146200000
+Balakovo-4,Russia,52.092,47.952,Operational,950.0,Asia,146200000
+Baltic-1,Russia,54.939,22.162,Under Construction,1109.0,Asia,146200000
+Beloyarsk-1,Russia,56.842,61.321,Shutdown,102.0,Asia,146200000
+Beloyarsk-2,Russia,56.842,61.321,Shutdown,146.0,Asia,146200000
+Beloyarsk-3,Russia,56.842,61.321,Operational,560.0,Asia,146200000
+Beloyarsk-4,Russia,56.842,61.321,Operational,820.0,Asia,146200000
+Beloyarsk-5,Russia,56.842,61.321,Planned,778.4198895027624,Asia,146200000
+Bilibino-1,Russia,68.059,166.492,Shutdown,11.0,Asia,146200000
+Bilibino-2,Russia,68.059,166.492,Operational,11.0,Asia,146200000
+Bilibino-3,Russia,68.059,166.492,Operational,11.0,Asia,146200000
+Bilibino-4,Russia,68.059,166.492,Operational,11.0,Asia,146200000
+Kalinin-1,Russia,57.903,35.057,Operational,950.0,Asia,146200000
+Kalinin-2,Russia,57.903,35.057,Operational,950.0,Asia,146200000
+Kalinin-3,Russia,57.903,35.057,Operational,950.0,Asia,146200000
+Kalinin-4,Russia,57.903,35.057,Operational,950.0,Asia,146200000
+Kola-1,Russia,67.467,32.491,Operational,411.0,Asia,146200000
+Kola-2,Russia,67.467,32.491,Operational,411.0,Asia,146200000
+Kola-3,Russia,67.467,32.491,Operational,411.0,Asia,146200000
+Kola-4,Russia,67.467,32.491,Operational,411.0,Asia,146200000
+Kursk-1,Russia,51.674,35.607,Shutdown,925.0,Asia,146200000
+Kursk-2,Russia,51.674,35.607,Operational,925.0,Asia,146200000
+Kursk-3,Russia,51.674,35.607,Operational,925.0,Asia,146200000
+Kursk-4,Russia,51.674,35.607,Operational,925.0,Asia,146200000
+Leningrad 2-1,Russia,59.837,29.039,Operational,1066.0,Asia,146200000
+Leningrad 2-2,Russia,59.837,29.039,Operational,1066.0,Asia,146200000
+Leningrad 2-3,Russia,59.837,29.039,Planned,1085.0,Asia,146200000
+Leningrad 2-4,Russia,59.837,29.039,Planned,1085.0,Asia,146200000
+Leningrad-1,Russia,59.837,29.039,Shutdown,925.0,Asia,146200000
+Leningrad-2,Russia,59.837,29.039,Shutdown,925.0,Asia,146200000
+Leningrad-3,Russia,59.837,29.039,Operational,925.0,Asia,146200000
+Leningrad-4,Russia,59.837,29.039,Operational,925.0,Asia,146200000
+Nizhny Novgorod-1,Russia,55.786863,42.37215,Planned,778.4198895027624,Asia,146200000
+Nizhny Novgorod-2,Russia,55.787102,42.37215,Planned,778.4198895027624,Asia,146200000
+Novovoronezh 2-1,Russia,51.273,39.197,Operational,1114.0,Asia,146200000
+Novovoronezh 2-2,Russia,51.273,39.197,Operational,1114.0,Asia,146200000
+Novovoronezh-1,Russia,51.275,39.206,Shutdown,197.0,Asia,146200000
+Novovoronezh-2,Russia,51.275,39.206,Shutdown,336.0,Asia,146200000
+Novovoronezh-3,Russia,51.275,39.206,Shutdown,385.0,Asia,146200000
+Novovoronezh-4,Russia,51.275,39.206,Operational,385.0,Asia,146200000
+Novovoronezh-5,Russia,52.381,39.211,Operational,950.0,Asia,146200000
+Rostov-1 (Volgodonsk-1),Russia,47.599,42.373,Operational,950.0,Asia,146200000
+Rostov-2 (Volgodonsk-2),Russia,47.599,42.373,Operational,950.0,Asia,146200000
+Rostov-3 (Volgodonsk-3),Russia,47.599,42.373,Operational,950.0,Asia,146200000
+Rostov-4 (Volgodonsk-4),Russia,47.599,42.373,Operational,950.0,Asia,146200000
+Smolensk-1,Russia,54.169,33.245,Operational,925.0,Asia,146200000
+Smolensk-2,Russia,54.169,33.245,Operational,925.0,Asia,146200000
+Smolensk-3,Russia,54.169,33.245,Operational,925.0,Asia,146200000
+Kursk 2-1,Russia,51.674,35.607,Under Construction,1200.0,Asia,146200000
+Kursk 2-2,Russia,51.674,35.607,Under Construction,1200.0,Asia,146200000
+BREST-OD-300,Russia,56.637414,84.90451,Under Construction,300.0,Asia,146200000
+Akkuyu-1,Türkiye,36.144444,33.541111,Under Construction,1114.0,Asia,84300000
+Akkuyu-2,Türkiye,36.144444,33.541111,Under Construction,1114.0,Asia,84300000
+Akkuyu-3,Türkiye,36.144444,33.541111,Under Construction,1114.0,Asia,84300000
+Akkuyu-4,Türkiye,36.144444,33.541111,Under Construction,1114.0,Asia,84300000
+Sinop-1,Türkiye,42.0,35.0,Planned,778.4198895027624,Asia,84300000
+Sinop-2,Türkiye,42.0,35.0,Planned,778.4198895027624,Asia,84300000
+Sinop-3,Türkiye,42.0,35.0,Planned,778.4198895027624,Asia,84300000
+Sinop-4,Türkiye,42.0,35.0,Planned,778.4198895027624,Asia,84300000
+Aktau (Shevchenko),Kazakhstan,43.607,51.283,Shutdown,52.0,Asia,19100000
+Almaraz-1,Spain,39.807,-5.698,Operational,900.0,Europe,47400000
+Almaraz-2,Spain,39.807,-5.698,Operational,900.0,Europe,47400000
+Asco-1,Spain,41.202,0.571,Operational,888.0,Europe,47400000
+Asco-2,Spain,41.202,0.571,Operational,888.0,Europe,47400000
+Cofrentes,Spain,39.216,-1.051,Operational,939.0,Europe,47400000
+Jose Cabrera-1 (Zorita),Spain,40.362,-2.818,Shutdown,153.0,Europe,47400000
+Santa Maria de Garona,Spain,42.775,-3.205,Shutdown,440.0,Europe,47400000
+Trillo-1,Spain,40.699,-2.622,Operational,990.0,Europe,47400000
+Vandellos-1,Spain,40.949,0.867,Shutdown,480.0,Europe,47400000
+Vandellos-2,Spain,40.949,0.867,Operational,930.0,Europe,47400000
+Angra-1,Brazil,-23.008,-44.457,Operational,609.0,South America,214500000
+Angra-2,Brazil,-23.008,-44.457,Operational,1245.0,South America,214500000
+Angra-3,Brazil,-23.01,-44.47,Under Construction,1340.0,South America,214500000
+Arkansas Nuclear One-1 (ANO-1),United States,35.31,-93.23,Operational,850.0,North America,332400000
+Arkansas Nuclear One-2 (ANO-2),United States,35.31,-93.229,Operational,912.0,North America,332400000
+Beaver Valley-1,United States,40.624,-80.432,Operational,835.0,North America,332400000
+Beaver Valley-2,United States,40.624,-80.432,Operational,836.0,North America,332400000
+Big Rock Point,United States,45.359,-85.195,Shutdown,72.0,North America,332400000
+BONUS,United States,18.365,-67.268,Shutdown,17.0,North America,332400000
+Braidwood-1,United States,41.247,-88.23,Operational,1120.0,North America,332400000
+Braidwood-2,United States,41.247,-88.23,Operational,1120.0,North America,332400000
+Browns Ferry-1,United States,34.704,-87.119,Operational,1065.0,North America,332400000
+Browns Ferry-2,United States,34.704,-87.119,Operational,1065.0,North America,332400000
+Browns Ferry-3,United States,34.704,-87.119,Operational,1065.0,North America,332400000
+Brunswick-1,United States,33.958,-78.007,Operational,821.0,North America,332400000
+Brunswick-2,United States,33.958,-78.007,Operational,821.0,North America,332400000
+Byron-1,United States,42.074,-89.277,Operational,1120.0,North America,332400000
+Byron-2,United States,42.074,-89.277,Operational,1120.0,North America,332400000
+Callaway-1,United States,38.763,-91.781,Operational,1171.0,North America,332400000
+Calvert Cliffs-1,United States,38.435,-76.439,Operational,845.0,North America,332400000
+Calvert Cliffs-2,United States,38.435,-76.439,Operational,845.0,North America,332400000
+Carolinas CVTR,United States,34.263,-81.33,Shutdown,17.0,North America,332400000
+Catawba-1,United States,35.053,-81.071,Operational,1145.0,North America,332400000
+Catawba-2,United States,35.053,-81.071,Operational,1145.0,North America,332400000
+Clinton-1,United States,40.172,-88.834,Operational,950.0,North America,332400000
+Columbia (WNP-2),United States,46.471,-119.333,Operational,1100.0,North America,332400000
+Comanche Peak-1,United States,32.301,-97.787,Operational,1150.0,North America,332400000
+Comanche Peak-2,United States,32.301,-97.787,Operational,1150.0,North America,332400000
+Cooper,United States,40.361,-95.643,Operational,778.0,North America,332400000
+Crystal River-3,United States,28.966,-82.697,Shutdown,825.0,North America,332400000
+Davis Besse-1,United States,41.597,-83.092,Operational,906.0,North America,332400000
+Diablo Canyon-1,United States,35.212,-120.854,Operational,1084.0,North America,332400000
+Diablo Canyon-2,United States,35.212,-120.854,Operational,1106.0,North America,332400000
+Donald Cook-1,United States,41.975,-86.564,Operational,1030.0,North America,332400000
+Donald Cook-2,United States,41.975,-86.564,Operational,1100.0,North America,332400000
+Dresden-1,United States,41.353,-88.349,Shutdown,192.0,North America,332400000
+Dresden-2,United States,41.353,-88.349,Operational,794.0,North America,332400000
+Dresden-3,United States,41.353,-88.349,Operational,794.0,North America,332400000
+Duane Arnold-1,United States,42.101,-91.776,Shutdown,601.0,North America,332400000
+Elk River,United States,45.297,-93.557,Shutdown,22.0,North America,332400000
+Enrico Fermi-1,United States,41.96,-83.257,Shutdown,60.0,North America,332400000
+Enrico Fermi-2,United States,41.96,-83.257,Operational,1093.0,North America,332400000
+Farley-1,United States,31.223,-85.115,Operational,829.0,North America,332400000
+Farley-2,United States,31.223,-85.115,Operational,829.0,North America,332400000
+FitzPatrick,United States,43.521,-76.403,Operational,821.0,North America,332400000
+Fort Calhoun-1,United States,41.52,-96.076,Shutdown,478.0,North America,332400000
+Fort St. Vrain,United States,40.244,-104.874,Shutdown,330.0,North America,332400000
+GE Vallecitos,United States,37.613056,-121.84,Shutdown,24.0,North America,332400000
+Grand Gulf-1,United States,32.007,-91.045,Operational,1250.0,North America,332400000
+H. B. Robinson-2,United States,34.402,-80.158,Operational,700.0,North America,332400000
+Haddam Neck,United States,41.483,-72.5,Shutdown,582.0,North America,332400000
+Hallam,United States,40.559,-96.785,Shutdown,75.0,North America,332400000
+Hatch-1,United States,31.935,-82.346,Operational,777.0,North America,332400000
+Hatch-2,United States,31.935,-82.346,Operational,784.0,North America,332400000
+Hope Creek-1,United States,39.467,-75.535,Operational,1067.0,North America,332400000
+Humboldt Bay,United States,40.741,-124.21,Shutdown,65.0,North America,332400000
+Indian Point-1,United States,41.27,-73.95,Shutdown,265.0,North America,332400000
+Indian Point-2,United States,41.27,-73.95,Shutdown,873.0,North America,332400000
+Indian Point-3,United States,41.27,-73.95,Shutdown,965.0,North America,332400000
+Kewaunee,United States,44.47,-87.498,Shutdown,535.0,North America,332400000
+LaCrosse,United States,43.559,-91.23,Shutdown,50.0,North America,332400000
+LaSalle-1,United States,41.246,-88.672,Operational,1078.0,North America,332400000
+LaSalle-2,United States,41.246,-88.672,Operational,1078.0,North America,332400000
+Limerick-1,United States,40.225,-75.584,Operational,1055.0,North America,332400000
+Limerick-2,United States,40.225,-75.584,Operational,1055.0,North America,332400000
+Maine Yankee,United States,43.951,-69.695,Shutdown,825.0,North America,332400000
+McGuire-1,United States,35.433,-80.946,Operational,1180.0,North America,332400000
+McGuire-2,United States,35.433,-80.946,Operational,1180.0,North America,332400000
+Millstone-1,United States,41.312,-72.166,Shutdown,660.0,North America,332400000
+Millstone-2,United States,41.312,-72.166,Operational,870.0,North America,332400000
+Millstone-3,United States,41.312,-72.166,Operational,1159.0,North America,332400000
+Monticello,United States,45.334,-93.85,Operational,545.0,North America,332400000
+Nine Mile Point-1,United States,43.522,-76.412,Operational,620.0,North America,332400000
+Nine Mile Point-2,United States,43.522,-76.412,Operational,1100.0,North America,332400000
+North Anna-1,United States,38.061,-77.792,Operational,907.0,North America,332400000
+North Anna-2,United States,38.061,-77.792,Operational,907.0,North America,332400000
+Oconee-1,United States,34.796,-82.894,Operational,887.0,North America,332400000
+Oconee-2,United States,34.796,-82.894,Operational,887.0,North America,332400000
+Oconee-3,United States,34.796,-82.894,Operational,887.0,North America,332400000
+Oyster Creek,United States,39.815,-74.208,Shutdown,650.0,North America,332400000
+Palisades,United States,42.323,-86.316,Shutdown,805.0,North America,332400000
+Palo Verde-1,United States,33.387,-112.863,Operational,1221.0,North America,332400000
+Palo Verde-2,United States,33.387,-112.863,Operational,1304.0,North America,332400000
+Palo Verde-3,United States,33.387,-112.863,Operational,1304.0,North America,332400000
+Pathfinder,United States,43.603,-96.636,Shutdown,59.0,North America,332400000
+Peach Bottom-1,United States,39.759,-76.27,Shutdown,40.0,North America,332400000
+Peach Bottom-2,United States,39.759,-76.27,Operational,1065.0,North America,332400000
+Peach Bottom-3,United States,39.759,-76.27,Operational,1065.0,North America,332400000
+Perry-1,United States,41.801,-81.147,Operational,1205.0,North America,332400000
+Pilgrim-1,United States,41.945,-70.578,Shutdown,655.0,North America,332400000
+Piqua,United States,40.132222,-84.234722,Shutdown,11.0,North America,332400000
+Point Beach-1,United States,44.282,-87.534,Operational,497.0,North America,332400000
+Point Beach-2,United States,44.282,-87.534,Operational,497.0,North America,332400000
+Prairie Island-1,United States,44.622,-92.631,Operational,530.0,North America,332400000
+Prairie Island-2,United States,44.622,-92.631,Operational,530.0,North America,332400000
+Quad Cities-1,United States,41.727,-90.308,Operational,789.0,North America,332400000
+Quad Cities-2,United States,41.727,-90.308,Operational,789.0,North America,332400000
+R. E. Ginna,United States,43.279,-77.311,Operational,470.0,North America,332400000
+Rancho Seco-1,United States,38.345,-121.12,Shutdown,918.0,North America,332400000
+River Bend-1,United States,30.727,-91.372,Operational,966.0,North America,332400000
+Salem-1,United States,39.463,-75.534,Operational,1090.0,North America,332400000
+Salem-2,United States,39.463,-75.534,Operational,1115.0,North America,332400000
+San Onofre-1,United States,33.368,-117.556,Shutdown,436.0,North America,332400000
+San Onofre-2,United States,33.368,-117.556,Shutdown,1070.0,North America,332400000
+San Onofre-3,United States,33.368,-117.556,Shutdown,1070.0,North America,332400000
+Saxton,United States,40.226944,-78.241944,Shutdown,3.0,North America,332400000
+Seabrook-1,United States,42.897,-70.849,Operational,1149.0,North America,332400000
+Sequoyah-1,United States,35.228,-85.094,Operational,1148.0,North America,332400000
+Sequoyah-2,United States,35.228,-85.094,Operational,1148.0,North America,332400000
+Shearon Harris-1,United States,35.635,-78.955,Operational,900.0,North America,332400000
+Shippingport,United States,40.63,-80.417778,Shutdown,60.0,North America,332400000
+Shoreham,United States,40.96,-72.866,Shutdown,809.0,North America,332400000
+South Texas-1,United States,28.797,-96.044,Operational,1250.0,North America,332400000
+South Texas-2,United States,28.796,-96.044,Operational,1250.0,North America,332400000
+St. Lucie-1,United States,27.348,-80.244,Operational,830.0,North America,332400000
+St. Lucie-2,United States,27.348,-80.244,Operational,830.0,North America,332400000
+Summer-1,United States,34.299,-81.314,Operational,900.0,North America,332400000
+Summer-2,United States,34.295833,-81.320278,Suspended Construction,1117.0,North America,332400000
+Summer-3,United States,34.295833,-81.320278,Suspended Construction,1117.0,North America,332400000
+Surry-1,United States,37.166,-76.7,Operational,788.0,North America,332400000
+Surry-2,United States,37.166,-76.7,Operational,788.0,North America,332400000
+Susquehanna-1,United States,41.093,-76.143,Operational,1065.0,North America,332400000
+Susquehanna-2,United States,41.093,-76.143,Operational,1065.0,North America,332400000
+Three Mile Island-1,United States,40.154,-76.727,Shutdown,819.0,North America,332400000
+Three Mile Island-2,United States,40.154,-76.727,Shutdown,906.0,North America,332400000
+Trojan,United States,46.04,-122.887,Shutdown,1130.0,North America,332400000
+Turkey Point-3,United States,25.435,-80.33,Operational,693.0,North America,332400000
+Turkey Point-4,United States,25.435,-80.33,Operational,693.0,North America,332400000
+Vermont Yankee,United States,42.779,-72.514,Shutdown,514.0,North America,332400000
+Vogtle-1,United States,33.143,-81.76,Operational,1122.0,North America,332400000
+Vogtle-2,United States,33.143,-81.76,Operational,1101.0,North America,332400000
+Vogtle-3,United States,33.1399,-81.7686,Operational,1117.0,North America,332400000
+Vogtle-4,United States,33.1399,-81.7712,Under Construction,1117.0,North America,332400000
+Waterford-3,United States,29.994,-90.471,Operational,1104.0,North America,332400000
+Watts Bar-1,United States,35.601,-84.789,Operational,1218.0,North America,332400000
+Watts Bar-2,United States,35.601,-84.789,Operational,1165.0,North America,332400000
+Wolf Creek,United States,38.239,-95.691,Operational,1170.0,North America,332400000
+Yankee Rowe,United States,42.728,-72.929,Shutdown,175.0,North America,332400000
+Zion-1,United States,42.446,-87.801,Shutdown,1040.0,North America,332400000
+Zion-2,United States,42.446,-87.801,Shutdown,1040.0,North America,332400000
+Armenian-1,Armenia,40.182,44.147,Shutdown,376.0,Asia,3000000
+Armenian-2,Armenia,40.182,44.147,Operational,375.0,Asia,3000000
+Armenian-3,Armenia,40.1808,44.1472,Planned,778.4198895027624,Asia,3000000
+Atucha-1,Argentina,-33.967,-59.209,Operational,319.0,South America,47300000
+Atucha-2,Argentina,-33.967,-59.209,Operational,692.0,South America,47300000
+CAREM25,Argentina,-33.966667,-59.211111,Under Construction,25.0,South America,47300000
+Embalse,Argentina,-32.232,-64.442,Operational,608.0,South America,47300000
+Barakah-1 (Braka),United Arab Emirates,23.952748,52.193298,Operational,1310.0,Asia,10400000
+Barakah-2 (Braka),United Arab Emirates,23.952748,52.193298,Operational,1310.0,Asia,10400000
+Barakah-3 (Braka),United Arab Emirates,23.952748,52.203298,Operational,1310.0,Asia,10400000
+Barakah-4 (Braka),United Arab Emirates,23.952748,52.203298,Under Construction,1310.0,Asia,10400000
+Belarusian-1,Belarus,54.766667,26.116667,Operational,1110.0,Europe,9400000
+Belarusian-2,Belarus,54.766667,26.116667,Operational,1110.0,Europe,9400000
+Belene-1,Bulgaria,43.62453,25.18675,Cancelled Construction,953.0,Europe,6900000
+Belene-2,Bulgaria,43.62453,25.1865,Cancelled Construction,953.0,Europe,6900000
+Kozloduy-1,Bulgaria,43.744,23.776,Shutdown,408.0,Europe,6900000
+Kozloduy-2,Bulgaria,43.744,23.776,Shutdown,408.0,Europe,6900000
+Kozloduy-3,Bulgaria,43.744,23.776,Shutdown,408.0,Europe,6900000
+Kozloduy-4,Bulgaria,43.744,23.776,Shutdown,408.0,Europe,6900000
+Kozloduy-5,Bulgaria,43.744,23.776,Operational,953.0,Europe,6900000
+Kozloduy-6,Bulgaria,43.744,23.776,Operational,1003.0,Europe,6900000
+Belleville-1,France,47.511,2.871,Operational,1310.0,Europe,67000000
+Belleville-2,France,47.511,2.871,Operational,1310.0,Europe,67000000
+Blayais-1,France,45.256,-0.691,Operational,910.0,Europe,67000000
+Blayais-2,France,45.256,-0.691,Operational,910.0,Europe,67000000
+Blayais-3,France,45.256,-0.691,Operational,910.0,Europe,67000000
+Blayais-4,France,45.256,-0.691,Operational,910.0,Europe,67000000
+Bugey-1,France,45.796,5.268,Shutdown,540.0,Europe,67000000
+Bugey-2,France,45.796,5.268,Operational,920.0,Europe,67000000
+Bugey-3,France,45.798,5.268,Operational,920.0,Europe,67000000
+Bugey-4,France,45.8,5.267,Operational,900.0,Europe,67000000
+Bugey-5,France,45.8,5.267,Operational,900.0,Europe,67000000
+Cattenom-1,France,49.416,6.217,Operational,1300.0,Europe,67000000
+Cattenom-2,France,49.416,6.217,Operational,1300.0,Europe,67000000
+Cattenom-3,France,49.416,6.217,Operational,1300.0,Europe,67000000
+Cattenom-4,France,49.416,6.217,Operational,1300.0,Europe,67000000
+Chinon-A1,France,47.232,0.167,Shutdown,68.0,Europe,67000000
+Chinon-A2,France,47.232,0.167,Shutdown,170.0,Europe,67000000
+Chinon-A3,France,47.232,0.167,Shutdown,480.0,Europe,67000000
+Chinon-B1,France,47.232,0.167,Operational,870.0,Europe,67000000
+Chinon-B2,France,47.232,0.167,Operational,870.0,Europe,67000000
+Chinon-B3,France,47.232,0.167,Operational,905.0,Europe,67000000
+Chinon-B4,France,47.232,0.167,Operational,905.0,Europe,67000000
+Chooz-A,France,50.086,4.792,Shutdown,280.0,Europe,67000000
+Chooz-B1,France,50.086,4.792,Operational,1455.0,Europe,67000000
+Chooz-B2,France,50.086,4.792,Operational,1455.0,Europe,67000000
+Civaux-1,France,46.457,0.654,Operational,1450.0,Europe,67000000
+Civaux-2,France,46.457,0.654,Operational,1450.0,Europe,67000000
+Cruas-1,France,44.634,4.757,Operational,880.0,Europe,67000000
+Cruas-2,France,44.634,4.757,Operational,915.0,Europe,67000000
+Cruas-3,France,44.634,4.757,Operational,880.0,Europe,67000000
+Cruas-4,France,44.634,4.757,Operational,880.0,Europe,67000000
+Dampierre-1,France,47.732,2.513,Operational,890.0,Europe,67000000
+Dampierre-2,France,47.732,2.513,Operational,890.0,Europe,67000000
+Dampierre-3,France,47.732,2.513,Operational,890.0,Europe,67000000
+Dampierre-4,France,47.732,2.513,Operational,890.0,Europe,67000000
+EL-4 (Monts D'Arree),France,48.35,-3.866667,Shutdown,70.0,Europe,67000000
+Fessenheim-1,France,47.903,7.564,Shutdown,880.0,Europe,67000000
+Fessenheim-2,France,47.903,7.564,Shutdown,880.0,Europe,67000000
+Flamanville-1,France,49.537,-1.881,Operational,1330.0,Europe,67000000
+Flamanville-2,France,49.537,-1.881,Operational,1330.0,Europe,67000000
+Flamanville-3,France,49.537,-1.881,Under Construction,1630.0,Europe,67000000
+G-2 (Marcoule),France,44.142,4.713,Shutdown,36.0,Europe,67000000
+G-3 (Marcoule),France,44.142,4.713,Shutdown,36.0,Europe,67000000
+Golfech-1,France,44.105,0.845,Operational,1310.0,Europe,67000000
+Golfech-2,France,44.105,0.845,Operational,1310.0,Europe,67000000
+Gravelines-1,France,51.014,2.138,Operational,910.0,Europe,67000000
+Gravelines-2,France,51.014,2.138,Operational,910.0,Europe,67000000
+Gravelines-3,France,51.014,2.138,Operational,910.0,Europe,67000000
+Gravelines-4,France,51.014,2.138,Operational,910.0,Europe,67000000
+Gravelines-5,France,51.014,2.138,Operational,910.0,Europe,67000000
+Gravelines-6,France,51.014,2.138,Operational,910.0,Europe,67000000
+Nogent-1,France,48.517,3.52,Operational,1310.0,Europe,67000000
+Nogent-2,France,48.517,3.52,Operational,1310.0,Europe,67000000
+Paluel-1,France,49.857,0.635,Operational,1330.0,Europe,67000000
+Paluel-2,France,49.857,0.635,Operational,1330.0,Europe,67000000
+Paluel-3,France,49.857,0.635,Operational,1330.0,Europe,67000000
+Paluel-4,France,49.857,0.635,Operational,1330.0,Europe,67000000
+Penly-1,France,49.975,1.215,Operational,1330.0,Europe,67000000
+Penly-2,France,49.975,1.215,Operational,1330.0,Europe,67000000
+Penly-3,France,49.977611,1.21409,Planned,778.4198895027624,Europe,67000000
+Phenix,France,44.142,4.712,Shutdown,233.0,Europe,67000000
+St. Alban-1,France,45.404,4.754,Operational,1335.0,Europe,67000000
+St. Alban-2,France,45.404,4.754,Operational,1335.0,Europe,67000000
+St. Laurent-A1,France,47.724,1.582,Shutdown,480.0,Europe,67000000
+St. Laurent-A2,France,47.724,1.582,Shutdown,515.0,Europe,67000000
+St. Laurent-B1,France,47.724,1.582,Operational,915.0,Europe,67000000
+St. Laurent-B2,France,47.72,1.581,Operational,880.0,Europe,67000000
+Super-Phenix,France,45.76,5.474,Shutdown,1200.0,Europe,67000000
+Tricastin-1,France,44.33,4.733,Operational,915.0,Europe,67000000
+Tricastin-2,France,44.33,4.733,Operational,915.0,Europe,67000000
+Tricastin-3,France,44.331,4.733,Operational,915.0,Europe,67000000
+Tricastin-4,France,44.331,4.733,Operational,915.0,Europe,67000000
+Berkeley-1,United Kingdom,51.692,-2.494,Shutdown,138.0,Europe,67800000
+Berkeley-2,United Kingdom,51.692,-2.494,Shutdown,138.0,Europe,67800000
+Bradwell-1,United Kingdom,51.742,0.899,Shutdown,150.0,Europe,67800000
+Bradwell-2,United Kingdom,51.742,0.899,Shutdown,150.0,Europe,67800000
+Calder Hall-1,United Kingdom,54.42,-3.491,Shutdown,35.0,Europe,67800000
+Calder Hall-2,United Kingdom,54.42,-3.491,Shutdown,35.0,Europe,67800000
+Calder Hall-3,United Kingdom,54.42,-3.491,Shutdown,35.0,Europe,67800000
+Calder Hall-4,United Kingdom,54.42,-3.491,Shutdown,35.0,Europe,67800000
+Chapelcross-1,United Kingdom,55.014,-3.223,Shutdown,35.0,Europe,67800000
+Chapelcross-2,United Kingdom,55.014,-3.223,Shutdown,35.0,Europe,67800000
+Chapelcross-3,United Kingdom,55.014,-3.223,Shutdown,35.0,Europe,67800000
+Chapelcross-4,United Kingdom,55.014,-3.223,Shutdown,35.0,Europe,67800000
+Dounreay DFR,United Kingdom,58.577,-3.745,Shutdown,14.0,Europe,67800000
+Dounreay PFR,United Kingdom,58.577,-3.745,Shutdown,234.0,Europe,67800000
+Dungeness-A1,United Kingdom,50.914,0.962,Shutdown,275.0,Europe,67800000
+Dungeness-A2,United Kingdom,50.914,0.962,Shutdown,275.0,Europe,67800000
+Dungeness-B1,United Kingdom,50.914,0.962,Shutdown,607.0,Europe,67800000
+Dungeness-B2,United Kingdom,50.914,0.962,Shutdown,607.0,Europe,67800000
+Hartlepool-A1,United Kingdom,54.634,-1.18,Operational,590.0,Europe,67800000
+Hartlepool-A2,United Kingdom,54.634,-1.18,Operational,595.0,Europe,67800000
+Heysham-A1,United Kingdom,54.029,-2.912,Operational,611.0,Europe,67800000
+Heysham-A2,United Kingdom,54.029,-2.912,Operational,611.0,Europe,67800000
+Heysham-B1,United Kingdom,54.029,-2.912,Operational,615.0,Europe,67800000
+Heysham-B2,United Kingdom,54.029,-2.912,Operational,615.0,Europe,67800000
+Hinkley Point-A1,United Kingdom,51.209,-3.131,Shutdown,250.0,Europe,67800000
+Hinkley Point-A2,United Kingdom,51.209,-3.131,Shutdown,250.0,Europe,67800000
+Hinkley Point-B1,United Kingdom,51.209,-3.131,Shutdown,625.0,Europe,67800000
+Hinkley Point-B2,United Kingdom,51.209,-3.131,Shutdown,625.0,Europe,67800000
+Hinkley Point-C1,United Kingdom,51.2087,-3.1305,Under Construction,1630.0,Europe,67800000
+Hinkley Point-C2,United Kingdom,51.2087,-3.1305,Under Construction,1630.0,Europe,67800000
+Hunterston-A1,United Kingdom,55.722,-4.893,Shutdown,150.0,Europe,67800000
+Hunterston-A2,United Kingdom,55.722,-4.893,Shutdown,150.0,Europe,67800000
+Hunterston-B1,United Kingdom,55.722,-4.893,Shutdown,624.0,Europe,67800000
+Hunterston-B2,United Kingdom,55.722,-4.893,Shutdown,624.0,Europe,67800000
+Oldbury-A1,United Kingdom,51.649,-2.567,Shutdown,300.0,Europe,67800000
+Oldbury-A2,United Kingdom,51.649,-2.567,Shutdown,300.0,Europe,67800000
+Sizewell-A1,United Kingdom,52.212,1.621,Shutdown,290.0,Europe,67800000
+Sizewell-A2,United Kingdom,52.212,1.621,Shutdown,290.0,Europe,67800000
+Sizewell-B,United Kingdom,52.212,1.621,Operational,1188.0,Europe,67800000
+Sizewell-C1,United Kingdom,52.21939,1.6228,Planned,778.4198895027624,Europe,67800000
+Sizewell-C2,United Kingdom,52.21939,1.6238,Planned,778.4198895027624,Europe,67800000
+Torness-1,United Kingdom,55.966,-2.399,Operational,645.0,Europe,67800000
+Torness-2,United Kingdom,55.966,-2.399,Operational,645.0,Europe,67800000
+Trawsfynydd-1,United Kingdom,52.923,-3.947,Shutdown,250.0,Europe,67800000
+Trawsfynydd-2,United Kingdom,52.922,-3.947,Shutdown,250.0,Europe,67800000
+Windscale AGR,United Kingdom,54.426,-3.505,Shutdown,32.0,Europe,67800000
+Winfrith SGHWR,United Kingdom,50.68,-2.272,Shutdown,92.0,Europe,67800000
+Wylfa-1,United Kingdom,53.416,-4.48,Shutdown,550.0,Europe,67800000
+Wylfa-2,United Kingdom,53.416,-4.48,Shutdown,550.0,Europe,67800000
+Beznau-1,Switzerland,47.552,8.229,Operational,350.0,Europe,8700000
+Beznau-2,Switzerland,47.552,8.229,Operational,350.0,Europe,8700000
+Goesgen,Switzerland,47.366,7.969,Operational,920.0,Europe,8700000
+Leibstadt,Switzerland,47.601,8.183,Operational,960.0,Europe,8700000
+Lucens,Switzerland,46.693,6.827,Shutdown,6.0,Europe,8700000
+Muehleberg,Switzerland,46.969,7.266,Shutdown,306.0,Europe,8700000
+Biblis-A,Germany,49.709,8.415,Shutdown,1146.0,Europe,83200000
+Biblis-B,Germany,49.709,8.415,Shutdown,1178.0,Europe,83200000
+Brokdorf,Germany,53.85,9.345,Shutdown,1307.0,Europe,83200000
+Brunsbuettel,Germany,53.891,9.202,Shutdown,770.0,Europe,83200000
+Emsland,Germany,52.471,7.322,Shutdown,1242.0,Europe,83200000
+Grafenrheinfeld,Germany,49.984,10.186,Shutdown,1225.0,Europe,83200000
+Greifswald-1,Germany,54.143,13.668,Shutdown,440.0,Europe,83200000
+Greifswald-2,Germany,54.143,13.668,Shutdown,408.0,Europe,83200000
+Greifswald-3,Germany,54.143,13.668,Shutdown,408.0,Europe,83200000
+Greifswald-4,Germany,54.143,13.668,Shutdown,408.0,Europe,83200000
+Greifswald-5,Germany,54.143,13.668,Shutdown,408.0,Europe,83200000
+Grohnde,Germany,52.033,9.412,Shutdown,1289.0,Europe,83200000
+Grosswelzheim,Germany,50.055,8.985,Decommissioning Completed,23.0,Europe,83200000
+Gundremmingen-A,Germany,48.513,10.401,Shutdown,237.0,Europe,83200000
+Gundremmingen-B,Germany,48.513,10.401,Shutdown,1244.0,Europe,83200000
+Gundremmingen-C,Germany,48.513,10.401,Shutdown,1249.0,Europe,83200000
+Isar-1,Germany,48.607,12.296,Shutdown,870.0,Europe,83200000
+Isar-2,Germany,48.607,12.296,Shutdown,1285.0,Europe,83200000
+AVR Juelich,Germany,50.903,6.421,Shutdown,13.0,Europe,83200000
+Kahl,Germany,50.059,8.987,Decommissioning Completed,15.0,Europe,83200000
+MZFR,Germany,49.104,8.432,Shutdown,50.0,Europe,83200000
+KNK-II,Germany,49.098,8.441,Shutdown,18.0,Europe,83200000
+Kruemmel,Germany,53.41,10.41,Shutdown,1260.0,Europe,83200000
+Lingen,Germany,52.483,7.302,Shutdown,183.0,Europe,83200000
+Muelheim-Kaerlich,Germany,50.409,7.485,Shutdown,1219.0,Europe,83200000
+Neckarwestheim-1,Germany,49.039,9.176,Shutdown,805.0,Europe,83200000
+Neckarwestheim-2,Germany,49.039,9.176,Shutdown,1225.0,Europe,83200000
+Niederaichbach,Germany,48.604,12.304,Decommissioning Completed,100.0,Europe,83200000
+Obrigheim,Germany,49.365,9.077,Shutdown,283.0,Europe,83200000
+Philippsburg-1,Germany,49.253,8.432,Shutdown,864.0,Europe,83200000
+Philippsburg-2,Germany,49.253,8.432,Shutdown,1268.0,Europe,83200000
+Rheinsberg,Germany,53.147,12.991,Shutdown,62.0,Europe,83200000
+Stade,Germany,53.62,9.53,Shutdown,630.0,Europe,83200000
+THTR-300,Germany,51.68,7.972,Shutdown,296.0,Europe,83200000
+Unterweser,Germany,53.429,8.477,Shutdown,1230.0,Europe,83200000
+Wuergassen,Germany,51.639,9.393,Shutdown,640.0,Europe,83200000
+SNR-300 (Kalkar),Germany,51.763056,6.326944,Never Commissioned,295.0,Europe,83200000
+Bohunice-1,Slovakia,48.494,17.687,Shutdown,408.0,Europe,5500000
+Bohunice-2,Slovakia,48.494,17.687,Shutdown,408.0,Europe,5500000
+Bohunice-3,Slovakia,48.494,17.687,Operational,466.0,Europe,5500000
+Bohunice-4,Slovakia,48.494,17.687,Operational,466.0,Europe,5500000
+Bohunice-A1,Slovakia,48.494,17.687,Shutdown,110.0,Europe,5500000
+Mochovce-1,Slovakia,48.261,18.455,Operational,408.0,Europe,5500000
+Mochovce-2,Slovakia,48.261,18.455,Operational,408.0,Europe,5500000
+Mochovce-3,Slovakia,48.261,18.455,Operational,440.0,Europe,5500000
+Mochovce-4,Slovakia,48.261,18.455,Under Construction,440.0,Europe,5500000
+Borssele,Netherlands,51.431,3.719,Operational,495.0,Europe,17700000
+Dodewaard,Netherlands,51.899,5.687,Shutdown,54.0,Europe,17700000
+BR-3,Belgium,51.217,5.099,Shutdown,11.0,Europe,11700000
+Doel-1,Belgium,51.323,4.259,Operational,392.0,Europe,11700000
+Doel-2,Belgium,51.323,4.259,Operational,445.0,Europe,11700000
+Doel-3,Belgium,51.323,4.259,Shutdown,890.0,Europe,11700000
+Doel-4,Belgium,51.323,4.259,Operational,1000.0,Europe,11700000
+Tihange-1,Belgium,50.533,5.271,Operational,870.0,Europe,11700000
+Tihange-2,Belgium,50.533,5.271,Shutdown,900.0,Europe,11700000
+Tihange-3,Belgium,50.533,5.271,Operational,1020.0,Europe,11700000
+Bruce-1,Canada,44.341,-81.572,Operational,732.0,North America,38000000
+Bruce-2,Canada,44.341,-81.572,Operational,732.0,North America,38000000
+Bruce-3,Canada,44.341,-81.572,Operational,750.0,North America,38000000
+Bruce-4,Canada,44.341,-81.572,Operational,750.0,North America,38000000
+Bruce-5,Canada,44.341,-81.572,Operational,822.0,North America,38000000
+Bruce-6,Canada,44.341,-81.572,Operational,822.0,North America,38000000
+Bruce-7,Canada,44.341,-81.572,Operational,822.0,North America,38000000
+Bruce-8,Canada,44.341,-81.572,Operational,795.0,North America,38000000
+Darlington-1,Canada,43.867,-78.724,Operational,881.0,North America,38000000
+Darlington-2,Canada,43.867,-78.724,Operational,881.0,North America,38000000
+Darlington-3,Canada,43.867,-78.724,Operational,881.0,North America,38000000
+Darlington-4,Canada,43.867,-78.724,Operational,881.0,North America,38000000
+Darlington-5,Canada,43.8644,-78.7244,Planned,778.4198895027624,North America,38000000
+Darlington-6,Canada,43.8633,-78.7244,Planned,778.4198895027624,North America,38000000
+Douglas Point,Canada,44.326,-81.601,Shutdown,203.0,North America,38000000
+Gentilly-1 (Demo),Canada,46.395,-72.357,Shutdown,250.0,North America,38000000
+Gentilly-2,Canada,46.395,-72.357,Shutdown,645.0,North America,38000000
+Pickering-1,Canada,43.812,-79.07,Operational,508.0,North America,38000000
+Pickering-2,Canada,43.812,-79.07,Shutdown,508.0,North America,38000000
+Pickering-3,Canada,43.812,-79.07,Shutdown,508.0,North America,38000000
+Pickering-4,Canada,43.812,-79.07,Operational,508.0,North America,38000000
+Pickering-5,Canada,43.812,-79.07,Operational,516.0,North America,38000000
+Pickering-6,Canada,43.812,-79.07,Operational,516.0,North America,38000000
+Pickering-7,Canada,43.812,-79.07,Operational,516.0,North America,38000000
+Pickering-8,Canada,43.812,-79.07,Operational,516.0,North America,38000000
+Point Lepreau,Canada,45.068,-66.455,Operational,660.0,North America,38000000
+Point Lepreau 2,Canada,45.068,-66.4546,Planned,778.4198895027624,North America,38000000
+Rolphton NPD,Canada,46.201,-77.705,Shutdown,17.0,North America,38000000
+Bushehr-1,Iran,28.831,50.887,Operational,915.0,Asia,84100000
+Bushehr-2,Iran,28.8287,50.8895,Under Construction,974.0,Asia,84100000
+Bushehr-3,Iran,28.8305,50.8872,Planned,778.4198895027624,Asia,84100000
+Bushehr-4,Iran,28.8305,50.8872,Planned,778.4198895027624,Asia,84100000
+Darkhovin,Iran,30.707778,48.38,Unknown,778.4198895027624,Asia,84100000
+Caorso,Italy,45.072,9.872,Shutdown,840.0,Europe,59300000
+Enrico Fermi,Italy,45.183333,8.283333,Shutdown,247.0,Europe,59300000
+Garigliano,Italy,41.258,13.835,Shutdown,150.0,Europe,59300000
+Latina,Italy,41.427,12.808,Shutdown,200.0,Europe,59300000
+CEFR (China Experimental Fast Reactor),China,39.739,116.03,Operational,20.0,Asia,1440000000
+Changjiang-1,China,19.46075,108.899917,Operational,601.0,Asia,1440000000
+Changjiang-2,China,19.46075,108.899917,Operational,601.0,Asia,1440000000
+Daya Bay-1 (Guangdong-1),China,22.599,114.544,Operational,930.0,Asia,1440000000
+Daya Bay-2 (Guangdong-2),China,22.599,114.544,Operational,930.0,Asia,1440000000
+Fangchenggang-1,China,21.6,108.3,Operational,1000.0,Asia,1440000000
+Fangchenggang-2,China,21.6,108.3,Operational,1000.0,Asia,1440000000
+Fangjiashan-1,China,30.416,120.951,Operational,1000.0,Asia,1440000000
+Fangjiashan-2,China,30.416,120.951,Operational,1000.0,Asia,1440000000
+Fuqing-1,China,25.443,119.453,Operational,1000.0,Asia,1440000000
+Fuqing-2,China,25.443,119.453,Operational,1000.0,Asia,1440000000
+Fuqing-3,China,25.720278,119.383889,Operational,1000.0,Asia,1440000000
+Fuqing-4,China,25.720278,119.383889,Operational,1000.0,Asia,1440000000
+Fuqing-5,China,25.720278,119.383889,Operational,1075.0,Asia,1440000000
+Fuqing-6,China,25.720278,119.383889,Operational,1075.0,Asia,1440000000
+Haiyang-1,China,36.704,121.382,Operational,1126.0,Asia,1440000000
+Haiyang-2,China,36.704,121.382,Operational,1126.0,Asia,1440000000
+Haiyang-3,China,36.704,121.382,Under Construction,1161.0,Asia,1440000000
+Haiyang-4,China,36.704,121.382,Under Construction,1161.0,Asia,1440000000
+Hongyanhe-1,China,39.797,121.4765,Operational,1061.0,Asia,1440000000
+Hongyanhe-2,China,39.797,121.4765,Operational,1061.0,Asia,1440000000
+Hongyanhe-3,China,39.797,121.4765,Operational,1061.0,Asia,1440000000
+Hongyanhe-4,China,39.797,121.4765,Operational,1061.0,Asia,1440000000
+Hongyanhe-5,China,39.797,121.4831,Operational,1061.0,Asia,1440000000
+Hongyanhe-6,China,39.797,121.4831,Operational,1061.0,Asia,1440000000
+Lingao-1,China,22.606,114.55,Operational,950.0,Asia,1440000000
+Lingao-2,China,22.606,114.55,Operational,950.0,Asia,1440000000
+Lingao-3,China,22.609,114.552,Operational,1007.0,Asia,1440000000
+Lingao-4,China,22.609,114.552,Operational,1007.0,Asia,1440000000
+Ningde-1,China,27.046,120.287,Operational,1018.0,Asia,1440000000
+Ningde-2,China,27.046,120.287,Operational,1018.0,Asia,1440000000
+Ningde-3,China,27.046,120.287,Operational,1018.0,Asia,1440000000
+Ningde-4,China,27.046,120.287,Operational,1018.0,Asia,1440000000
+Ningde-5,China,27.046,120.287,Planned,778.4198895027624,Asia,1440000000
+Ningde-6,China,27.046,120.287,Planned,778.4198895027624,Asia,1440000000
+Qinshan-1,China,30.44,120.95,Operational,289.0,Asia,1440000000
+Qinshan-2-1 (Qinshan 2),China,30.44,120.95,Operational,610.0,Asia,1440000000
+Qinshan-2-2 (Qinshan 3),China,30.44,120.95,Operational,610.0,Asia,1440000000
+Qinshan-2-3 (Qinshan 4),China,30.44,120.95,Operational,619.0,Asia,1440000000
+Qinshan-2-4 (Qinshan 5),China,30.44,120.95,Operational,619.0,Asia,1440000000
+Qinshan-3-1 (Qinshan 6),China,30.44,120.95,Operational,677.0,Asia,1440000000
+Qinshan-3-2 (Qinshan 7),China,30.44,120.95,Operational,677.0,Asia,1440000000
+Sanmen-1,China,29.101,121.642,Operational,1157.0,Asia,1440000000
+Sanmen-2,China,29.101,121.642,Operational,1157.0,Asia,1440000000
+Sanmen-3,China,29.101111,121.651944,Under Construction,1163.0,Asia,1440000000
+Sanmen-4,China,29.101111,121.656944,Under Construction,1163.0,Asia,1440000000
+Shidao Bay-1,China,36.979167,122.530556,Operational,200.0,Asia,1440000000
+Taishan-1,China,21.917778,112.981944,Operational,1660.0,Asia,1440000000
+Taishan-2,China,21.917778,112.981944,Operational,1660.0,Asia,1440000000
+Tianwan-1,China,34.69,119.456,Operational,990.0,Asia,1440000000
+Tianwan-2,China,34.69,119.456,Operational,990.0,Asia,1440000000
+Tianwan-3,China,34.6868,119.456,Operational,1060.0,Asia,1440000000
+Tianwan-4,China,34.6858,119.456,Operational,1060.0,Asia,1440000000
+Tianwan-5,China,34.6838,119.456,Operational,1000.0,Asia,1440000000
+Tianwan-6,China,34.6828,119.456,Operational,1000.0,Asia,1440000000
+Xianning-1,China,29.66,114.67,Planned,778.4198895027624,Asia,1440000000
+Xianning-2,China,29.66,114.67,Planned,778.4198895027624,Asia,1440000000
+Yangjiang-1,China,21.706,112.256,Operational,1021.0,Asia,1440000000
+Yangjiang-2,China,21.706,112.256,Operational,1000.0,Asia,1440000000
+Yangjiang-3,China,21.706,112.256,Operational,1000.0,Asia,1440000000
+Yangjiang-4,China,21.8575,111.9825,Operational,1000.0,Asia,1440000000
+Yangjiang-5,China,21.8575,111.9825,Operational,1021.0,Asia,1440000000
+Yangjiang-6,China,21.8575,111.9825,Operational,1000.0,Asia,1440000000
+Zhangzhou-1,China,23.829167,117.491667,Under Construction,1126.0,Asia,1440000000
+Fangchenggang-3,China,21.6,108.3,Operational,1000.0,Asia,1440000000
+Fangchenggang-4,China,21.6,108.3,Under Construction,1000.0,Asia,1440000000
+Taipingling-1,China,22.693056,114.983333,Under Construction,1116.0,Asia,1440000000
+Zhangzhou-2,China,23.829167,117.491667,Under Construction,1126.0,Asia,1440000000
+Taipingling-2,China,22.693056,114.983333,Under Construction,1116.0,Asia,1440000000
+Xiapu-1,China,26.803611,120.155,Under Construction,642.0,Asia,1440000000
+Xiapu-2,China,26.803611,120.155,Under Construction,600.0,Asia,1440000000
+Sanaocun-1,China,27.201487,120.517974,Under Construction,1117.0,Asia,1440000000
+CAP1400-1,China,36.965556,122.52,Under Construction,1534.0,Asia,1440000000
+CAP1400-2,China,36.965556,122.52,Under Construction,1534.0,Asia,1440000000
+Changjiang-3,China,19.46075,108.899917,Under Construction,1000.0,Asia,1440000000
+Xudabao-1,China,40.351389,120.545833,Planned,778.4198895027624,Asia,1440000000
+Xudabao-2,China,40.351389,120.545833,Planned,778.4198895027624,Asia,1440000000
+Xudabao-3,China,40.351389,120.545833,Under Construction,1200.0,Asia,1440000000
+Xudabao-4,China,40.351389,120.545833,Under Construction,1200.0,Asia,1440000000
+Tianwan-7,China,34.6828,119.456,Under Construction,1171.0,Asia,1440000000
+Tianwan-8,China,34.6828,119.456,Under Construction,1171.0,Asia,1440000000
+Changjiang-4,China,19.46075,108.899917,Under Construction,1000.0,Asia,1440000000
+Changjiang SMR-1,China,19.46007,108.88992,Under Construction,100.0,Asia,1440000000
+Sanaocun-2,China,27.201487,120.517974,Under Construction,1117.0,Asia,1440000000
+Cernavoda-1,Romania,44.322,28.061,Operational,650.0,Europe,19300000
+Cernavoda-2,Romania,44.322,28.061,Operational,650.0,Europe,19300000
+Cernavoda-3,Romania,44.322,28.061,Suspended Construction,655.0,Europe,19300000
+Cernavoda-4,Romania,44.322,28.061,Suspended Construction,655.0,Europe,19300000
+Cernavoda-5,Romania,44.322,28.061,Cancelled Construction,655.0,Europe,19300000
+CHASNUPP-1,Pakistan,32.392,71.463,Operational,300.0,Asia,220800000
+CHASNUPP-2,Pakistan,32.392,71.463,Operational,300.0,Asia,220800000
+CHASNUPP-3,Pakistan,32.392,71.465,Operational,315.0,Asia,220800000
+CHASNUPP-4,Pakistan,32.391944,71.461667,Operational,313.0,Asia,220800000
+KANUPP-1,Pakistan,24.845,66.79,Shutdown,125.0,Asia,220800000
+KANUPP-2,Pakistan,24.845,66.79,Operational,1017.0,Asia,220800000
+KANUPP-3,Pakistan,24.845,66.79,Operational,1014.0,Asia,220800000
+Chernobyl-1,Ukraine,51.389,30.103,Shutdown,925.0,Europe,43100000
+Chernobyl-2,Ukraine,51.389,30.103,Shutdown,925.0,Europe,43100000
+Chernobyl-3,Ukraine,51.389,30.103,Shutdown,925.0,Europe,43100000
+Chernobyl-4,Ukraine,51.389,30.103,Shutdown,925.0,Europe,43100000
+Khmelnitski-1,Ukraine,50.301,26.649,Operational,950.0,Europe,43100000
+Khmelnitski-2,Ukraine,50.301,26.649,Operational,950.0,Europe,43100000
+Khmelnitski-3,Ukraine,50.303056,26.642778,Under Construction,1035.0,Europe,43100000
+Khmelnitski-4,Ukraine,50.303056,26.642778,Under Construction,1035.0,Europe,43100000
+Rivne-1,Ukraine,51.326,25.9,Operational,361.0,Europe,43100000
+Rivne-2,Ukraine,51.326,25.9,Operational,384.0,Europe,43100000
+Rivne-3,Ukraine,51.326,25.9,Operational,950.0,Europe,43100000
+Rivne-4,Ukraine,51.326,25.9,Operational,950.0,Europe,43100000
+South Ukraine-1,Ukraine,47.811,31.22,Operational,950.0,Europe,43100000
+South Ukraine-2,Ukraine,47.811,31.22,Operational,950.0,Europe,43100000
+South Ukraine-3,Ukraine,47.811,31.22,Operational,950.0,Europe,43100000
+Zaporozhye-1,Ukraine,47.508,34.627,Operational,950.0,Europe,43100000
+Zaporozhye-2,Ukraine,47.508,34.627,Operational,950.0,Europe,43100000
+Zaporozhye-3,Ukraine,47.508,34.627,Operational,950.0,Europe,43100000
+Zaporozhye-4,Ukraine,47.508,34.627,Operational,950.0,Europe,43100000
+Zaporozhye-5,Ukraine,47.508,34.627,Operational,950.0,Europe,43100000
+Zaporozhye-6,Ukraine,47.508,34.627,Operational,950.0,Europe,43100000
+Chin Shan-1,Taiwan,25.292,121.567,Shutdown,604.0,Asia,23800000
+Chin Shan-2,Taiwan,25.292,121.567,Shutdown,604.0,Asia,23800000
+Kuosheng-1,Taiwan,25.203,121.662,Shutdown,948.0,Asia,23800000
+Kuosheng-2,Taiwan,25.203,121.662,Shutdown,948.0,Asia,23800000
+Lungmen-1,Taiwan,25.038,121.924,Suspended Construction,1300.0,Asia,23800000
+Lungmen-2,Taiwan,25.038,121.924,Suspended Construction,1300.0,Asia,23800000
+Maanshan-1,Taiwan,25.038,121.924,Operational,936.0,Asia,23800000
+Maanshan-2,Taiwan,25.038,121.924,Operational,938.0,Asia,23800000
+Dukovany-1,Czechia,49.089,16.149,Operational,420.0,Europe,10700000
+Dukovany-2,Czechia,49.089,16.149,Operational,420.0,Europe,10700000
+Dukovany-3,Czechia,49.089,16.149,Operational,420.0,Europe,10700000
+Dukovany-4,Czechia,49.089,16.149,Operational,420.0,Europe,10700000
+Temelin-1,Czechia,49.181,14.377,Operational,1027.0,Europe,10700000
+Temelin-2,Czechia,49.181,14.377,Operational,1029.0,Europe,10700000
+El Dabaa-1,Egypt,31.044167,28.497778,Under Construction,1100.0,Africa,102300000
+El Dabaa-2,Egypt,31.044167,28.497778,Under Construction,1100.0,Africa,102300000
+El Dabaa-3,Egypt,31.044167,28.497778,Under Construction,1100.0,Africa,102300000
+Fugen ATR,Japan,35.751,136.02,Shutdown,148.0,Asia,125500000
+Fukushima Daiichi-1,Japan,37.423,141.032,Shutdown,439.0,Asia,125500000
+Fukushima Daiichi-2,Japan,37.423,141.032,Shutdown,760.0,Asia,125500000
+Fukushima Daiichi-3,Japan,37.423,141.032,Shutdown,760.0,Asia,125500000
+Fukushima Daiichi-4,Japan,37.423,141.032,Shutdown,760.0,Asia,125500000
+Fukushima Daiichi-5,Japan,37.423,141.032,Shutdown,760.0,Asia,125500000
+Fukushima Daiichi-6,Japan,37.423,141.032,Shutdown,1067.0,Asia,125500000
+Fukushima Daini-1,Japan,37.315,141.024,Shutdown,1067.0,Asia,125500000
+Fukushima Daini-2,Japan,37.315,141.024,Shutdown,1067.0,Asia,125500000
+Fukushima Daini-3,Japan,37.315,141.024,Shutdown,1067.0,Asia,125500000
+Fukushima Daini-4,Japan,37.315,141.024,Shutdown,1067.0,Asia,125500000
+Genkai-1,Japan,33.518,129.837,Shutdown,529.0,Asia,125500000
+Genkai-2,Japan,33.518,129.837,Shutdown,529.0,Asia,125500000
+Genkai-3,Japan,33.518,129.837,Operational,1127.0,Asia,125500000
+Genkai-4,Japan,33.518,129.837,Operational,1127.0,Asia,125500000
+Hamaoka-1,Japan,34.621,138.141,Shutdown,516.0,Asia,125500000
+Hamaoka-2,Japan,34.621,138.141,Shutdown,814.0,Asia,125500000
+Hamaoka-3,Japan,34.621,138.141,Suspended Operation,1056.0,Asia,125500000
+Hamaoka-4,Japan,34.621,138.141,Suspended Operation,1092.0,Asia,125500000
+Hamaoka-5,Japan,34.621,138.141,Suspended Operation,1325.0,Asia,125500000
+Hamaoka-6,Japan,34.621,138.141,Planned,778.4198895027624,Asia,125500000
+Higashi Dori-1 (Tohoku),Japan,41.188,141.393,Suspended Operation,1067.0,Asia,125500000
+Higashi Dori-1 (Tokyo),Japan,41.1856,141.388,Planned,778.4198895027624,Asia,125500000
+Higashi Dori-2 (Tohoku),Japan,41.1856,141.39,Planned,778.4198895027624,Asia,125500000
+Higashi Dori-2 (Tokyo),Japan,41.1856,141.389,Planned,778.4198895027624,Asia,125500000
+Ikata-1,Japan,33.491,132.309,Shutdown,538.0,Asia,125500000
+Ikata-2,Japan,33.491,132.309,Shutdown,538.0,Asia,125500000
+Ikata-3,Japan,33.491,132.309,Operational,846.0,Asia,125500000
+JPDR,Japan,36.4625,140.61,Shutdown,10.0,Asia,125500000
+Kashiwazaki Kariwa-1,Japan,37.434,138.598,Suspended Operation,1067.0,Asia,125500000
+Kashiwazaki Kariwa-2,Japan,37.434,138.598,Suspended Operation,1067.0,Asia,125500000
+Kashiwazaki Kariwa-3,Japan,37.434,138.598,Suspended Operation,1067.0,Asia,125500000
+Kashiwazaki Kariwa-4,Japan,37.434,138.598,Suspended Operation,1067.0,Asia,125500000
+Kashiwazaki Kariwa-5,Japan,37.434,138.598,Suspended Operation,1067.0,Asia,125500000
+Kashiwazaki Kariwa-6,Japan,37.434,138.598,Suspended Operation,1315.0,Asia,125500000
+Kashiwazaki Kariwa-7,Japan,37.434,138.598,Suspended Operation,1315.0,Asia,125500000
+Mihama-1,Japan,35.701,135.962,Shutdown,320.0,Asia,125500000
+Mihama-2,Japan,35.701,135.962,Shutdown,470.0,Asia,125500000
+Mihama-3,Japan,35.701,135.962,Operational,780.0,Asia,125500000
+Monju,Japan,35.739,135.988,Shutdown,246.0,Asia,125500000
+Ohi-1,Japan,35.544,135.652,Shutdown,1120.0,Asia,125500000
+Ohi-2,Japan,35.544,135.652,Shutdown,1120.0,Asia,125500000
+Ohi-3,Japan,35.544,135.652,Operational,1127.0,Asia,125500000
+Ohi-4,Japan,35.544,135.652,Operational,1127.0,Asia,125500000
+Ohma,Japan,41.507,140.909,Under Construction,1328.0,Asia,125500000
+Onagawa-1,Japan,38.4,141.504,Shutdown,498.0,Asia,125500000
+Onagawa-2,Japan,38.4,141.504,Suspended Operation,796.0,Asia,125500000
+Onagawa-3,Japan,38.4,141.504,Suspended Operation,796.0,Asia,125500000
+Sendai-1,Japan,31.834,130.193,Operational,846.0,Asia,125500000
+Sendai-2,Japan,31.834,130.193,Operational,846.0,Asia,125500000
+Shika-1,Japan,37.061,136.728,Suspended Operation,505.0,Asia,125500000
+Shika-2,Japan,37.061,136.728,Suspended Operation,1304.0,Asia,125500000
+Shimane-1,Japan,35.537,132.999,Shutdown,439.0,Asia,125500000
+Shimane-2,Japan,35.537,132.999,Suspended Operation,789.0,Asia,125500000
+Shimane-3,Japan,35.537,132.999,Under Construction,1325.0,Asia,125500000
+Takahama-1,Japan,35.52,135.503,Suspended Operation,780.0,Asia,125500000
+Takahama-2,Japan,35.52,135.503,Suspended Operation,780.0,Asia,125500000
+Takahama-3,Japan,35.52,135.503,Operational,830.0,Asia,125500000
+Takahama-4,Japan,35.52,135.503,Operational,830.0,Asia,125500000
+Tokai-1,Japan,36.466,140.612,Shutdown,159.0,Asia,125500000
+Tokai-2,Japan,36.466,140.612,Suspended Operation,1056.0,Asia,125500000
+Tomari-1,Japan,43.038,140.515,Suspended Operation,550.0,Asia,125500000
+Tomari-2,Japan,43.038,140.515,Suspended Operation,550.0,Asia,125500000
+Tomari-3,Japan,43.038,140.515,Suspended Operation,866.0,Asia,125500000
+Tsuruga-1,Japan,35.672,136.079,Shutdown,341.0,Asia,125500000
+Tsuruga-2,Japan,35.672,136.079,Suspended Operation,1115.0,Asia,125500000
+Hanbit-1,South Korea,35.405,126.41,Operational,903.0,Asia,51800000
+Hanbit-2,South Korea,35.405,126.41,Operational,903.0,Asia,51800000
+Hanbit-3,South Korea,35.405,126.41,Operational,950.0,Asia,51800000
+Hanbit-4,South Korea,35.405,126.41,Operational,950.0,Asia,51800000
+Hanbit-5,South Korea,35.405,126.41,Operational,950.0,Asia,51800000
+Hanbit-6,South Korea,35.405,126.41,Operational,993.0,Asia,51800000
+Hanul-1,South Korea,37.09,129.384444,Operational,903.0,Asia,51800000
+Hanul-2,South Korea,37.09,129.384444,Operational,903.0,Asia,51800000
+Hanul-3,South Korea,37.09,129.384444,Operational,997.0,Asia,51800000
+Hanul-4,South Korea,37.09,129.384444,Operational,950.0,Asia,51800000
+Hanul-5,South Korea,37.09,129.384444,Operational,950.0,Asia,51800000
+Hanul-6,South Korea,37.09,129.384444,Operational,950.0,Asia,51800000
+Kori-1,South Korea,35.321,129.295,Shutdown,558.0,Asia,51800000
+Kori-2,South Korea,35.321,129.295,Operational,618.0,Asia,51800000
+Kori-3,South Korea,35.321,129.295,Operational,1001.0,Asia,51800000
+Kori-4,South Korea,35.321,129.295,Operational,1012.0,Asia,51800000
+Shin-Wolsong-1,South Korea,35.722,129.479,Operational,950.0,Asia,51800000
+Shin-Wolsong-2,South Korea,35.722,129.479,Operational,950.0,Asia,51800000
+Shin-Hanul-1,South Korea,37.083889,129.391667,Operational,1340.0,Asia,51800000
+Shin-Hanul-2,South Korea,37.083889,129.391667,Under Construction,1340.0,Asia,51800000
+Shin-Kori-1,South Korea,35.327,129.302,Operational,998.0,Asia,51800000
+Shin-Kori-2,South Korea,35.327,129.302,Operational,995.0,Asia,51800000
+Saeul-1,South Korea,35.327,129.302,Operational,1340.0,Asia,51800000
+Saeul-2,South Korea,35.327,129.302,Operational,1340.0,Asia,51800000
+Saeul-3,South Korea,35.327,129.302,Under Construction,1340.0,Asia,51800000
+Saeul-4,South Korea,35.327,129.302,Under Construction,1340.0,Asia,51800000
+Wolsong-1,South Korea,35.71,129.476,Shutdown,629.0,Asia,51800000
+Wolsong-2,South Korea,35.71,129.476,Operational,652.0,Asia,51800000
+Wolsong-3,South Korea,35.71,129.476,Operational,665.0,Asia,51800000
+Wolsong-4,South Korea,35.71,129.476,Operational,669.0,Asia,51800000
+Wolsong-5,South Korea,35.7101,129.481,Planned,778.4198895027624,Asia,51800000
+Wolsong-6,South Korea,35.7101,129.481,Planned,778.4198895027624,Asia,51800000
+Ignalina-1,Lithuania,55.604,26.562,Shutdown,1500.0,Europe,2800000
+Ignalina-2,Lithuania,55.604,26.562,Shutdown,1500.0,Europe,2800000
+Ignalina-3,Lithuania,55.604,26.562,Cancelled Construction,1380.0,Europe,2800000
+Visaginas-1,Lithuania,55.6057,26.575842,Planned,778.4198895027624,Europe,2800000
+Visaginas-2,Lithuania,55.6057,26.575842,Planned,778.4198895027624,Europe,2800000
+Jaitapur-1,India,16.595278,73.341111,Planned,778.4198895027624,Asia,1410000000
+Jaitapur-2,India,16.595278,73.341111,Planned,778.4198895027624,Asia,1410000000
+Kaiga-1,India,14.865,74.438,Operational,202.0,Asia,1410000000
+Kaiga-2,India,14.865,74.438,Operational,202.0,Asia,1410000000
+Kaiga-3,India,14.865,74.438,Operational,202.0,Asia,1410000000
+Kaiga-4,India,14.865,74.438,Operational,202.0,Asia,1410000000
+Kaiga-5,India,14.868,74.4418,Planned,778.4198895027624,Asia,1410000000
+Kaiga-6,India,14.868,74.4422,Planned,778.4198895027624,Asia,1410000000
+Kakrapar-1,India,21.236,73.351,Operational,202.0,Asia,1410000000
+Kakrapar-2,India,21.236,73.351,Operational,202.0,Asia,1410000000
+Kakrapar-3,India,21.236,73.351,Operational,630.0,Asia,1410000000
+Kakrapar-4,India,21.236,73.351,Under Construction,630.0,Asia,1410000000
+Kalpakkam (PFBR),India,12.553,80.174,Under Construction,470.0,Asia,1410000000
+Kalpakkam-1 (Madras-1 / MAPS1),India,12.553,80.174,Suspended Operation,202.0,Asia,1410000000
+Kalpakkam-2 (Madras-2 / MAPS2),India,12.553,80.174,Operational,202.0,Asia,1410000000
+Kudankulam-1,India,8.167,77.713,Operational,917.0,Asia,1410000000
+Kudankulam-2,India,8.167,77.713,Operational,917.0,Asia,1410000000
+Kudankulam-3,India,8.16705,77.708,Under Construction,917.0,Asia,1410000000
+Kudankulam-4,India,8.16666,77.708,Under Construction,917.0,Asia,1410000000
+Kudankulam-5,India,8.16627,77.708,Under Construction,917.0,Asia,1410000000
+Kudankulam-6,India,8.16588,77.708,Under Construction,917.0,Asia,1410000000
+Narora-1,India,28.156,78.409,Operational,202.0,Asia,1410000000
+Narora-2,India,28.155,78.409,Operational,202.0,Asia,1410000000
+Rajasthan-1,India,24.876,75.608,Suspended Operation,207.0,Asia,1410000000
+Rajasthan-2,India,24.876,75.608,Operational,207.0,Asia,1410000000
+Rajasthan-3,India,24.876,75.608,Operational,202.0,Asia,1410000000
+Rajasthan-4,India,24.876,75.608,Operational,202.0,Asia,1410000000
+Rajasthan-5,India,24.876,75.608,Operational,202.0,Asia,1410000000
+Rajasthan-6,India,24.876,75.608,Operational,202.0,Asia,1410000000
+Rajasthan-7,India,24.876,75.608,Under Construction,630.0,Asia,1410000000
+Rajasthan-8,India,24.876,75.608,Under Construction,630.0,Asia,1410000000
+Tarapur-1,India,19.834,72.657,Suspended Operation,200.0,Asia,1410000000
+Tarapur-2,India,19.834,72.657,Suspended Operation,200.0,Asia,1410000000
+Tarapur-3,India,19.834,72.657,Operational,502.0,Asia,1410000000
+Tarapur-4,India,19.834,72.657,Operational,502.0,Asia,1410000000
+Koeberg-1,South Africa,-33.677,18.433,Operational,921.0,Africa,60100000
+Koeberg-2,South Africa,-33.677,18.433,Operational,921.0,Africa,60100000
+Krsko,Slovenia,45.939,15.516,Operational,632.0,Europe,2100000
+Laguna Verde-1,Mexico,19.719,-96.405,Operational,780.0,North America,128900000
+Laguna Verde-2,Mexico,19.719,-96.405,Operational,780.0,North America,128900000
+Loviisa-1,Finland,60.372,26.342,Operational,420.0,Europe,5500000
+Loviisa-2,Finland,60.372,26.342,Operational,420.0,Europe,5500000
+Olkiluoto-1,Finland,61.235,21.444,Operational,660.0,Europe,5500000
+Olkiluoto-2,Finland,61.235,21.444,Operational,660.0,Europe,5500000
+Olkiluoto-3,Finland,61.234,21.435,Operational,1600.0,Europe,5500000
+Olkiluoto-4,Finland,61.234352,21.436287,Planned,778.4198895027624,Europe,5500000
+Paks-1,Hungary,46.574,18.855,Operational,408.0,Europe,9800000
+Paks-2,Hungary,46.574,18.855,Operational,410.0,Europe,9800000
+Paks-3,Hungary,46.574,18.855,Operational,410.0,Europe,9800000
+Paks-4,Hungary,46.574,18.855,Operational,410.0,Europe,9800000
+Rooppur-1,Bangladesh,24.066667,89.047222,Under Construction,1080.0,Asia,164700000
+Rooppur-2,Bangladesh,24.066667,89.047222,Under Construction,1080.0,Asia,164700000
+Zwentendorf,Austria,48.3544,15.8847,Never Commissioned,692.0,Europe,9000000

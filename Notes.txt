@@ -1,0 +1,50 @@
+
+Columns to be used
+
+for maps
+
+name
+latitude
+longitude
+country
+
+** NOTE: There are missing values in the latitude and longitude columns. These will need to be removed before plotting.
+
+Once these are plotted, we can take a look at what geographic factors come into play when building a nuclear power plant.
+
+
+
+We will need to do an evaluation of the MWe Capacities to get an idea of how much power they provide, however we will need to infer the missing values
+
+
+----
+* Capacity note * - The capacity of a nuclear power plant measured in MWe is not a total for the year. It is the maximum amount of electrical power that the plant can generate at any given time. The actual amount of electricity that a nuclear power plant generates in a year will depend on a number of factors, including the availability of fuel, the efficiency of the plant, and the demand for electricity.
+
+For example, a nuclear power plant with a capacity of 1000 MWe may only generate 800 MWe of electricity in a year if the plant is only operating at 80% capacity. This could be due to a number of factors, such as maintenance outages, refueling outages, or reduced demand for electricity.
+
+Nuclear power plants are typically designed to operate at a high capacity factor, which is the ratio of the actual amount of electricity generated to the plant's nameplate capacity. A high capacity factor means that the plant is generating a lot of electricity relative to its size. However, even the most efficient nuclear power plants will have some downtime, so the actual amount of electricity generated in a year will always be less than the plant's nameplate capacity.
+
+
+
+----
+Here are some of the things to consider when building a nuclear power plant from a location standpoint:
+
+Proximity to water: Nuclear power plants need a large amount of water for cooling, so they are typically located near rivers, lakes, or oceans.
+Seismic activity: Nuclear power plants are sensitive to earthquakes, so they should be located in areas with low seismic activity.
+Air quality: Nuclear power plants emit small amounts of radioactive material into the air, so they should be located in areas with good air quality.
+Population density: Nuclear power plants pose a risk of radiation exposure to people in the surrounding area, so they should be located in areas with low population density.
+Transportation: Nuclear power plants need to be able to receive regular deliveries of fuel and other supplies, so they should be located near transportation routes.
+Security: Nuclear power plants are a potential target for terrorist attacks, so they should be located in areas with good security.
+In addition to these factors, the specific location of a nuclear power plant will also depend on the availability of land, the cost of construction, and other economic factors.
+
+Here are some additional considerations:
+
+Size: The site should be able to accommodate the size of the nuclear power plant and its associated facilities.
+Accessibility: The site should be accessible to transportation routes for the delivery of fuel and other supplies.
+Water resources: The site should have adequate water resources for cooling and other purposes.
+Seismic stability: The site should be in a seismically stable area.
+Air quality: The site should be in an area with good air quality.
+Population density: The site should be in an area with low population density.
+Security: The site should be in an area with good security.
+
+The decision of where to build a nuclear power plant is a complex one that involves many factors. The considerations listed above are just a few of the most important ones.
